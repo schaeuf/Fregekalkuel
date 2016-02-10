@@ -1,0 +1,3 @@
+class NameOutOfRangeException
+extends Exception{
+};

@@ -1,0 +1,1 @@
+class TAxiom extends TTyp{};
